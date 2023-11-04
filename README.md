@@ -66,3 +66,4 @@ ib.disconnect()
 - The script retrieves tick data for a single stock and a specific date range. You can modify it to fetch data for multiple stocks or different time periods.
 
 Feel free to reach out if you have any questions or encounter any issues. Happy data retrieval!
+https://discord.gg/ZrvTKgBU
